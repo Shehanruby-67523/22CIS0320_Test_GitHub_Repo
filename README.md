@@ -9,6 +9,7 @@ A passionate Full Stack Developer and IT undergraduate from Sabaragamuwa Univers
 
 ## 🧠 Currently Learning
 - Cloud Computing
+- Data Science
 - DevOps with Docker & Kubernetes
 
 ## 🔗 My Projects
