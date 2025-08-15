@@ -14,7 +14,7 @@ A passionate Full Stack Developer and IT undergraduate from Sabaragamuwa Univers
 
 ## 🔗 My Projects
 - 🚀 [Big-Cats - Wild Cats Online Learning Platform](https://github.com/Shehanruby-67523/Big-Cats)
-- 💻 [Python-Password Generator)](https://github.com/Shehanruby-67523/python-password-generator)
+- 💻 [Python-Password Generator](https://github.com/Shehanruby-67523/python-password-generator)
 
 ## 📫 Reach Me
 - Email: kurugamaperera2003@gmail.com
