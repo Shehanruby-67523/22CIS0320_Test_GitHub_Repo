@@ -8,6 +8,7 @@ A passionate Full Stack Developer and IT undergraduate from Sabaragamuwa Univers
 - Database: MySQL, MongoDB
 
 ## 🧠 Currently Learning
+- Web Development
 - Cloud Computing
 - Data Science
 - DevOps with Docker & Kubernetes
