@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Shehan Perera
 Undergraduate | BCs (Hons) Computing and Information Systems | Sabaragamuwa University of Sri Lanka.
 
-!(Coding.mp4)
+---
+
+![Alt text for the GIF](Coding.mp4)
+
+---
 
 ## 🔧 Tech Stack
 - Languages: Python, JavaScript, Java
