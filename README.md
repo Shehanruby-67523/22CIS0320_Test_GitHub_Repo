@@ -14,7 +14,7 @@ Undergraduate | BCs (Hons) Computing and Information Systems | Sabaragamuwa Univ
 - DevOps with Docker & Kubernetes
 
 ## 🔗 My Projects
-- 🚀 [Big-Cats - Wild Cats Online Learning Platform](https://github.com/Shehanruby-67523/Big-Cats)
+- 🐅 [Big-Cats - Wild Cats Online Learning Platform](https://github.com/Shehanruby-67523/Big-Cats)
 - 💻 [Python-Password Generator](https://github.com/Shehanruby-67523/python-password-generator)
 
 ## 📫 Reach Me
