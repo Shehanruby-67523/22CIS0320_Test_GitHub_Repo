@@ -3,7 +3,7 @@ Undergraduate | BCs (Hons) Computing and Information Systems | Sabaragamuwa Univ
 
 ---
 
-![Alt text for the GIF](Coding.mp4)
+![Add GIF](Coding.mp4)
 
 ---
 
