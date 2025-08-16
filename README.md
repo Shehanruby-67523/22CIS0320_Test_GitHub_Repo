@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shehan Perera
-Undergraduate | BCs(Hons) Computing and Information Systems | Sabaragamuwa University of Sri Lanka.
+Undergraduate | BCs (Hons) Computing and Information Systems | Sabaragamuwa University of Sri Lanka.
 
 ## 🔧 Tech Stack
 - Languages: Python, JavaScript, Java
