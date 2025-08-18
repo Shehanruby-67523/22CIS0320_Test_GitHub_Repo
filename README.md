@@ -5,7 +5,25 @@ A passionate Computing and Information Systems undergraduate at Sabaragamuwa Uni
 I'm an undergraduate student with a strong interest in building scalable web applications and exploring the world of cloud computing. I enjoy solving complex problems and am always looking to learn new technologies. I'm currently focused on expanding my skills in web development and DevOps.
 
 
-<div align="left" margin=50px>
+<table>
+  <tr>
+    <td>
+# 🔧 My Tech Stack
+      <ul>
+        <li><b>Languages:</b> Python, JavaScript, Java</li>
+        <li><b>Frontend:</b> React, HTML, CSS</li>
+        <li><b>Backend:</b> Node.js, Ballerina</li>
+        <li><b>Database:</b> MySQL, MongoDB</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Shehanruby-67523/Shehanruby-67523/refs/heads/main/Coding.gif" alt="Coding GIF" width=300px height=300px/>
+    </td>
+  </tr>
+</table>
+
+
+<!-- <div align="left">
 
 # 🔧 My Tech Stack
 - Languages: Python, JavaScript, Java
@@ -16,7 +34,7 @@ I'm an undergraduate student with a strong interest in building scalable web app
 <div align="right">
 <img src="https://raw.githubusercontent.com/Shehanruby-67523/Shehanruby-67523/refs/heads/main/Coding.gif" alt="Coding GIF" width=300px height=300px/>
 </div>
-</div>
+</div> -->
 
 # 🧠 I'm Currently Learning
 - Web Development
