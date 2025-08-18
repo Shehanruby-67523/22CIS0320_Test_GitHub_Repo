@@ -8,11 +8,13 @@ I'm an undergraduate student with a strong interest in building scalable web app
 <img src="https://raw.githubusercontent.com/Shehanruby-67523/Shehanruby-67523/refs/heads/main/Coding.gif" alt="Coding GIF" width=300px height=300px/>
 </div>
 
+<div align="left">
 # 🔧 My Tech Stack
 - Languages: Python, JavaScript, Java
 - Frontend: React, HTML, CSS
 - Backend: Node.js, Ballerina
 - Database: MySQL, MongoDB
+</div>
 
 # 🧠 I'm Currently Learning
 - Web Development
