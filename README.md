@@ -3,8 +3,7 @@ Undergraduate | BCs (Hons) Computing and Information Systems | Sabaragamuwa Univ
 
 ---
 
-![]
-(https://github.com/Shehanruby-67523/Shehanruby-67523/blob/master/path/to/Coding.gif)
+![gif](https://raw.githubusercontent.com/Shehanruby-67523/Shehanruby-67523/refs/heads/main/Coding.gif)
 
 ---
 
