@@ -20,17 +20,17 @@ I'm an undergraduate student with a strong interest in building scalable web app
 - Data Science
 - DevOps with Docker & Kubernetes
 
-# 📈 My GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shehanruby-67523&show_icons=true&theme=default&hide_border=true" alt="Shehan Perera's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehanruby-67523&theme=default&hide_border=true" alt="GitHub Streak" />
-</div>
-
 # 🔗 My Projects
 - 🐅 [Big-Cats - Wild Cats Online Learning Platform](https://github.com/Shehanruby-67523/Big-Cats)
     A comprehensive online learning platform focused on wild cats, built to provide educational content and resources.
 - 💻 [Python-Password Generator](https://github.com/Shehanruby-67523/python-password-generator)
     A simple, command-line password generator application created with Python.
+
+# 📈 My GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shehanruby-67523&show_icons=true&theme=default&hide_border=true" alt="Shehan Perera's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehanruby-67523&theme=default&hide_border=true" alt="GitHub Streak" />
+</div>
 
 # 📫 Reach Me
 - Email: kurugamaperera2003@gmail.com
