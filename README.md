@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shehan Perera
-Undergraduate | BCs (Hons) Computing and Information Systems | Sabaragamuwa University of Sri Lanka.
+A passionate Computing and Information Systems undergraduate at Sabaragamuwa University of Sri Lanka.
 
 ---
 
