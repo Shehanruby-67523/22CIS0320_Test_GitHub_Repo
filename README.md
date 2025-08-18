@@ -8,8 +8,8 @@ I'm an undergraduate student with a strong interest in building scalable web app
 <table>
   <tr>
     <td>
-    <h2>
-        # 🔧 My Tech Stack
+    <h2 font-size=50px>
+        🔧 My Tech Stack
     </h2>
       <ul>
         <li><b>Languages:</b> Python, JavaScript, Java</li>
