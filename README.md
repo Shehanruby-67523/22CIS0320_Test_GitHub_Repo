@@ -9,7 +9,7 @@ I'm an undergraduate student with a strong interest in building scalable web app
   <tr>
     <td>
     <h2 font-size=50px>
-        🔧 My Tech Stack
+          🔧 My Tech Stack
     </h2>
       <ul>
         <li><b>Languages:</b> Python, JavaScript, Java</li>
