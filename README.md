@@ -5,13 +5,11 @@ A passionate Computing and Information Systems undergraduate at Sabaragamuwa Uni
 
 I'm an undergraduate student with a strong interest in building scalable web applications and exploring the world of cloud computing. I enjoy solving complex problems and am always looking to learn new technologies. I'm currently focused on expanding my skills in web development and DevOps.
 
----
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Shehanruby-67523/Shehanruby-67523/refs/heads/main/Coding.gif" alt="Coding GIF" width="auto" width=300px height=300px/>
 </div>
 
----
 
 # 🔧 My Tech Stack
 - Languages: Python, JavaScript, Java
