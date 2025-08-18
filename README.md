@@ -5,7 +5,7 @@ A passionate Computing and Information Systems undergraduate at Sabaragamuwa Uni
 I'm an undergraduate student with a strong interest in building scalable web applications and exploring the world of cloud computing. I enjoy solving complex problems and am always looking to learn new technologies. I'm currently focused on expanding my skills in web development and DevOps.
 
 
-<table>
+<table align="center>
   <tr>
     <td>
     <h2 font-size=50px>
