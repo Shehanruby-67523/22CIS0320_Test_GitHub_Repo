@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Shehan Perera
+### 👋 Hi, I'm Shehan Perera
 A passionate Computing and Information Systems undergraduate at Sabaragamuwa University of Sri Lanka.
 
-## 🚀 About Me
+### 🚀 About Me
 
 I'm an undergraduate student with a strong interest in building scalable web applications and exploring the world of cloud computing. I enjoy solving complex problems and am always looking to learn new technologies. I'm currently focused on expanding my skills in web development and DevOps.
 
+---
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Shehanruby-67523/Shehanruby-67523/refs/heads/main/Coding.gif" alt="Coding GIF" width="auto"/>
@@ -12,13 +13,13 @@ I'm an undergraduate student with a strong interest in building scalable web app
 
 ---
 
-## 🔧 Tech Stack
+### 🔧 My Tech Stack
 - Languages: Python, JavaScript, Java
 - Frontend: React, HTML, CSS
 - Backend: Node.js, Ballerina
 - Database: MySQL, MongoDB
 
-## 🧠 Currently Learning
+### 🧠 I'm Currently Learning
 - Web Development
 - Cloud Computing
 - Data Science
