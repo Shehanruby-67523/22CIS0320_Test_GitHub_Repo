@@ -9,11 +9,13 @@ I'm an undergraduate student with a strong interest in building scalable web app
 </div>
 
 <div align="left">
+
 # 🔧 My Tech Stack
 - Languages: Python, JavaScript, Java
 - Frontend: React, HTML, CSS
 - Backend: Node.js, Ballerina
 - Database: MySQL, MongoDB
+
 </div>
 
 # 🧠 I'm Currently Learning
