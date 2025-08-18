@@ -8,7 +8,9 @@ I'm an undergraduate student with a strong interest in building scalable web app
 <table>
   <tr>
     <td>
-# 🔧 My Tech Stack
+    <h2>
+        # 🔧 My Tech Stack
+    </h2>
       <ul>
         <li><b>Languages:</b> Python, JavaScript, Java</li>
         <li><b>Frontend:</b> React, HTML, CSS</li>
