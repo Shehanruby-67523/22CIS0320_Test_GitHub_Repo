@@ -8,7 +8,7 @@ I'm an undergraduate student with a strong interest in building scalable web app
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shehanruby-67523/Shehanruby-67523/refs/heads/main/Coding.gif" alt="Coding GIF" width="auto" width=100px height=100px/>
+<img src="https://raw.githubusercontent.com/Shehanruby-67523/Shehanruby-67523/refs/heads/main/Coding.gif" alt="Coding GIF" width="auto" width=300px height=300px/>
 </div>
 
 ---
