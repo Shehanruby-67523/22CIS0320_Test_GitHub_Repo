@@ -59,6 +59,6 @@ I'm an undergraduate student with a strong interest in building scalable web app
 </div>
 
 # 📫 Reach Me
-- Email:<p><i class="fas fa-envelope"></i> kurugamaperera2003@gmail.com </p>
-- LinkedIn:<p><i class="fab fa-linkedin"></i> https://www.linkedin.com/in/shehan-perera-2642ba316/ </p>
-- GitHub:<p><i class="fab fa-github"></i> https://github.com/Shehanruby-67523 </p>
+- Email:📧 kurugamaperera2003@gmail.com 
+- LinkedIn:💼 https://www.linkedin.com/in/shehan-perera-2642ba316/ 
+- GitHub:💻 https://github.com/Shehanruby-67523 
