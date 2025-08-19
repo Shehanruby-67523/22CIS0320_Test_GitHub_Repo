@@ -48,9 +48,9 @@ I'm an undergraduate student with a strong interest in building scalable web app
 
 # 🔗 My Projects
 - 🐅 [Big-Cats - Wild Cats Online Learning Platform](https://github.com/Shehanruby-67523/Big-Cats)
-    A comprehensive online learning platform focused on wild cats, built to provide educational content and resources.
+    :A comprehensive online learning platform focused on wild cats, built to provide educational content and resources.
 - 💻 [Python-Password Generator](https://github.com/Shehanruby-67523/python-password-generator)
-    A simple, command-line password generator application created with Python.
+    :A simple, command-line password generator application created with Python.
 
 # 📈 My GitHub Stats
 <div align="center">
