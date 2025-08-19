@@ -17,6 +17,7 @@ I'm an undergraduate student with a strong interest in building scalable web app
         <li><b>Frontend:</b> React, HTML, CSS</li>
         <li><b>Backend:</b> Node.js, Ballerina</li>
         <li><b>Database:</b> MySQL, MongoDB</li>
+        <li><b>Version Control:</b> GitHub</li>
       </ul>
     </td>
     <td>
@@ -60,3 +61,4 @@ I'm an undergraduate student with a strong interest in building scalable web app
 # 📫 Reach Me
 - Email: kurugamaperera2003@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shehan-perera-2642ba316/
+- GitHub: https://github.com/Shehanruby-67523
