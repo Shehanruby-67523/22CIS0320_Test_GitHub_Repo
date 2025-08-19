@@ -13,7 +13,7 @@ I'm an undergraduate student with a strong interest in building scalable web app
           🔧 My Tech Stack
     </h2>
       <ul>
-        <li><b>Languages:</b> Python, JavaScript, Java</li>
+        <li><b>Languages:</b> Python, JavaScript, Java, C</li>
         <li><b>Frontend:</b> React, HTML, CSS</li>
         <li><b>Backend:</b> Node.js, Ballerina</li>
         <li><b>Database:</b> MySQL, MongoDB</li>
